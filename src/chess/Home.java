@@ -28,7 +28,7 @@ public class Home extends JFrame{
   }
 
   /**
-   * 功能: 初始化界面
+   * 功能: 初始化界面jjj
    * 作者: 黄欢欢   时间: 2016-09-21
    */
   private void init() {
